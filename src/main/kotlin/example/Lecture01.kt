@@ -18,7 +18,7 @@ fun main() {
 
     // nullable 변수 설정 = 변수에 null이 들어가면 타입에 [?] 을 추가해야함
     var number5: Long? = 1_000L
-    number5 = null
+//    number5 = null
 
     var person = Person("taejun")
     println(number1)
