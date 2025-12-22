@@ -1,6 +1,6 @@
 package com.example
 
-class Person(val name: String)
+class Person(val name: String, val age: Int) {}
 
 fun main() {
 
@@ -20,7 +20,7 @@ fun main() {
     var number5: Long? = 1_000L
 //    number5 = null
 
-    var person = Person("taejun")
+    var person = Person("taejun", 30)
     println(number1)
     println(number2)
     println(number3)
