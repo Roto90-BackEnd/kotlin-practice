@@ -1,4 +1,4 @@
-package com.example
+package com
 
 fun main() {
     printAgeIfPerson(Person("", 100))

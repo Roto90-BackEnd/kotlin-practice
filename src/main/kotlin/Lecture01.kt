@@ -1,4 +1,4 @@
-package com.example
+package com
 
 class Person(val name: String, val age: Int) {}
 
