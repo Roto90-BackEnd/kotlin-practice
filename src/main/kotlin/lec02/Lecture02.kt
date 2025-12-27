@@ -1,4 +1,4 @@
-package com
+package com.lec02
 
 fun main() {
 

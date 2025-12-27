@@ -1,4 +1,6 @@
-package com
+package com.lec03
+
+import com.lec01.Person
 
 fun main() {
     printAgeIfPerson(Person("", 100))

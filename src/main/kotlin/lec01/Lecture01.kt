@@ -1,4 +1,4 @@
-package com
+package com.lec01
 
 class Person(val name: String, val age: Int) {}
 
